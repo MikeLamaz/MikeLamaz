@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @MikeLamaz
-
 - 💞️ I’m looking to collaborate on Python, DS, ML and DA
 
 
